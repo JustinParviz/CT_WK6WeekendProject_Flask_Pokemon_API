@@ -1,0 +1,13 @@
+/* Shop Page CSS */
+
+
+.shop-header {
+    background-image: url("");
+    background-size: cover;
+    height: 700px;
+    color: white; 
+}
+
+.shop-stats {
+    color: white; 
+}
